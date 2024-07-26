@@ -30,7 +30,7 @@
       "imageSrc": "../public/assets/projects/portfolio.png",
       "description": "My responsive portfolio website, built with Tailwind CSS, showcases my projects and skills in a clean and modern design. Tailwind CSS allows for rapid and efficient styling, resulting in a visually appealing and highly functional site. The responsive design ensures that the portfolio looks great on all devices, from desktops to mobile phones, providing an optimal user experience.",
       "demo": "https://my-portfolio-pearl-kappa-31.vercel.app/",
-      "source": "https://www.github.com"
+      "source": "https://github.com/RDHira/My_Portfolio"
     }
   ]
 
