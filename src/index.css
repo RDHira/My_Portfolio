@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'roboto';
+}
+
+:root{
+    --box-shadow: 10px 5px 10px 5px rgb(40, 47, 97);
+    --bg-color: rgb(40, 47, 97);
+}
+
+/* ***** Navbar ***** */
+.items:hover{
+    border-bottom: 2px solid rgb(154, 154, 17);
+    border-radius: 8px;
+    padding: 4px;
+}
+.left-hero:hover {
+    box-shadow: 10px 5px 10px 5px rgb(40, 47, 97);
+}
+.hero-img img{
+    transform: scalex(-1);
+}
+/* ***** Home **** */
+.hero-img{
+    border: 1px solid rgb(9, 9, 66);
+    animation-name: superHero;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction:alternate ;
+    transform: scalex(-1, -1);
+    /* animation: superHero 2s infinite alternate; */
+}
+.dnld{
+    border: 1px solid rgb(190, 118, 55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+.dnld:hover{
+    background-color: rgb(11, 23, 35);
+    color: rgb(148, 103, 39);
+}
+
+@keyframes superHero{
+    /* 0%{border-radius: 0%;} */
+    /* 100%{border-radius: 50%;} */
+    0%{border-color: blue; transform: translate(0,0px); box-shadow:10px 10px 100px 50px blue;}
+    25%{border-color:rgb(239, 244, 11); box-shadow:10px 10px 100px 50px rgb(239, 244, 11);}
+    50%{border-color:rgb(12, 12, 199); transform: translate(0,10px); box-shadow:10px 10px 100px 50px rgb(12, 12, 199);}
+    75%{border-color:rgb(130, 217, 160); box-shadow:10px 10px 100px 50px rgb(130, 217, 160);}
+    100%{border-color:rgb(50, 55, 205); transform: translate(0,-0px); box-shadow:10px 10px 100px 50px rgb(50, 55, 205);}
+}
+
+/* ***** For Experience Section ******* */
+.nav-list a:hover{
+    box-shadow: var(--box-shadow);
+    background-color:transparent;
+}
+/**** for Skills ****/
+.technology-content{
+    width: calc(40.33%);
+    height:27vh;
+    text-align: center;
+    border: 1px solid rgb(158, 16, 163);
+    box-shadow: 10px 5px 10px 5px rgb(40, 47, 97);
+    margin-top: 80px;
+}
+
+/* ***** for projects ********* */
+.project-details{
+    border: 1px solid rgb(158, 16, 163);
+    box-shadow: 10px 5px 10px 5px rgb(40, 47, 97);
+}
+.pro-img{
+    border: 1px solid rgb(130, 130, 25);
+}
+
+/* .*** for Contact ******* */
+.icons{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    text-align: center;
+ }
+.contact-icons .icons:hover{
+   border: none;
+    box-shadow: 10px 5px 10px 0px rgb(40, 47, 97);
+    background-color: rgb(3, 10, 42);
+}
+.contact-icons .icons .inner-icon{
+    font-size: 1.5rem;
+}
+

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "role": "React Developer-Intern",
+    "organisation": "Explore Soft Tech",
+    "startDate": "In 2023, ",
+    "endDate": "Present",
+    "location": "Bagbazar, Kathmandu",
+    "experiences": [
+      "I create some dynamic user interface API's base projects in React , manage hooks, React Router for navigation I explored some libraries like Axios, APIs calls  Aos and version control with Git and collaborating with a team."
+    ],
+    "imageSrc": "../public/assets/company/explore soft tech.jpg",
+    "name": "Explore SoftTech"
+  },
+  {
+    "id": 2,
+    "role": "Front-End Developer- Intern",
+    "organisation": "Udey Tech",
+    "startDate": "In",
+    "endDate": "2022,",
+    "location": "Janakpur, Nepal",
+    "experiences": [
+      
+        "    I learned the fundamentals of front-end development, including JavaScript, Bootstrap, Tailwind CSS, HTML, and CSS. I also gained some experience with version control and Create some projects like: School Website, Portfolio and mini-demo projects "
+    ],
+    "imageSrc": "../public/assets/company/Udeytech.png",
+    "name": "Udey Tech"
+  },
+  {
+    "id": 3,
+    "role": "As a Frontend Developer",
+    "organisation": "Cyberpur Lokbidhi",
+    "startDate": "First 3",
+    "endDate": "months",
+    "location": "Janakpur, Nepal",
+    "experiences": [
+      "I've worked as a frontend developer and made small projects, such as creating web pages component of websites, using HTML, CSS, Bootstrap, and JavaScript and Design and implement different business logic workshop"
+    ],
+    "imageSrc": "../public/assets/company/cyberpur.jpg",
+    "name": "Cyberpur"
+  }
+]

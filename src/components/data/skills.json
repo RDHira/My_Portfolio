@@ -1,0 +1,38 @@
+[
+  { "id":1,
+    "title": "HTML",
+    "imageSrc": "../public/assets/skills/html.png"
+  },
+  { "id":2,
+    "title": "CSS",
+    "imageSrc": "../public/assets/skills/css.png"
+  },
+  { "id":3,
+    "title": "JavaScript",
+    "imageSrc": "../public/assets/skills/javascript.png"
+  },
+  {  "id":4,
+    "title": "React",
+    "imageSrc": "../public/assets/skills/react.png"
+  },
+  {  "id":5,
+    "title": "Github",
+    "imageSrc": "../public/assets/skills/github.png"
+  },
+  {  "id":6,
+    "title":"Firebase",
+    "imageSrc":"../public/assets/skills/firebase.png"
+  },
+  {  "id":7,
+    "title": "Tailwind CSS",
+    "imageSrc": "../public/assets/skills/tailwind.jpeg"
+  },
+  {  "id":8,
+    "title": "Bootstraps",
+    "imageSrc": "../public/assets/skills/bootstrap.png"
+  },
+  {  "id":9,
+    "title": "Figma",
+    "imageSrc": "../public/assets/skills/figma.png"
+  }
+]
