@@ -33,7 +33,7 @@ function Home(){
                 <h1 className='text-3xl font-bold text-justify'>Hira Mandal</h1>   
                 <h1 ref={typedRef} className='text-2xl font-bold text-justify'></h1>
                 <p className='text-[18px] text-justify'>Need A Cool Website That Makes Your Business Shine Online? I'm Your Guy! I'll Use My Skills In Coding And Design To Make A Website That Looks Awesome, Works Great, And Pops Up Easily On Google. Whether You Want Something Simple Or Super Fancy, I've Got You Covered!</p>
-                <a href={pdf} download="Resume.pdf" className='dnld w-40 p-2 rounded-md text-orange-300 bg-gray-900 outline-orange-700'>Download Resume</a>
+                <a href={pdf} download="My_Resume.pdf" className='dnld w-40 p-2 rounded-md text-orange-300 bg-gray-900 outline-orange-700'>Download Resume</a>
             </div>
             <div className="right-hero w-[#600]" >
                 <img className='hero-img rounded-e-full w-80 flex justify-center items-center' src={`${hero.imgSrc}`} alt="hero-image"
