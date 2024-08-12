@@ -1,13 +1,6 @@
 
   [
-    {
-      "key": 1,
-      "title": "Crud Application",
-      "imageSrc": "https:rd//github.com/RDHira/My_Portfolio/blob/main/public/assets/projects/weatherApp.png?raw=true",
-      "description": "My weather web app allows users to fetch weather data by entering a City name. It provides real-time information on temperature, humidity, weather conditions, and wind speed. Additionally, the app dynamically sets the background image according to the current weather, enhancing the user experience with a visually relevant interface.",
-      "demo": "https://weather-web-app-nine-swart.vercel.app/",
-      "source": "https://github.com/RDHira/Weather_Web_App"
-    },
+    
     {
       "key": 2,
       "title": "React API  Weather App",
