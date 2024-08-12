@@ -10,6 +10,14 @@
     },
     {
       "key": 2,
+      "title": "React API  Weather App",
+      "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/projects/weatherApp.png?raw=true",
+      "description": "My weather web app allows users to fetch weather data by entering a City name. It provides real-time information on temperature, humidity, weather conditions, and wind speed. Additionally, the app dynamically sets the background image according to the current weather, enhancing the user experience with a visually relevant interface.",
+      "demo": "https://weather-web-app-nine-swart.vercel.app/",
+      "source": "https://github.com/RDHira/Weather_Web_App"
+    },
+    {
+      "key": 3,
       "title": "ChatGPT-Clone",
       "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/projects/chatgpt-clone.png?raw=true",
       "description": "My ChatGPT Clone UI is look like the real ChatGPT interface. While it doesn't include all the original features, it showcases my skills in creating clean and user-friendly designs. The interface is responsive and works well on different devices. This project highlights my ability to build attractive and functional user interfaces. It demonstrates my proficiency in front-end development.",
@@ -17,7 +25,7 @@
       "source": "https://github.com/RDHira/ChatGPT_Clone"
     },
     {
-      "key": 3,
+      "key": 4,
       "title": "React BG-Changer",
       "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/projects/bg-changer.png?raw=true",
       "description": "My simple background changer website allows users to easily switch between different background colors with just a click. This straightforward tool provides a quick and user-friendly way to personalize the visual experience of a webpage, making it an engaging and enjoyable feature for users.",
@@ -25,9 +33,9 @@
       "source": "https://github.com/RDHira/bg-Changer"
     },
     {
-      "key": 4,
+      "key": 5,
       "title": "Portfolio",
-      "imageSrc": "../public/assets/projects/portfolio.png",
+      "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/projects/portfolio.png?raw=true",
       "description": "My responsive portfolio website, built with Tailwind CSS, showcases my projects and skills in a clean and modern design. Tailwind CSS allows for rapid and efficient styling, resulting in a visually appealing and highly functional site. The responsive design ensures that the portfolio looks great on all devices, from desktops to mobile phones, providing an optimal user experience.",
       "demo": "https://my-portfolio-pearl-kappa-31.vercel.app/",
       "source": "https://github.com/RDHira/My_Portfolio"
