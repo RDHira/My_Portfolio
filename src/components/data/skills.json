@@ -1,38 +1,38 @@
 [
   { "id":1,
     "title": "HTML",
-    "imageSrc": "../public/assets/skills/html.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/html.png?raw=true"
   },
   { "id":2,
     "title": "CSS",
-    "imageSrc": "../public/assets/skills/css.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/css.png?raw=true"
   },
   { "id":3,
     "title": "JavaScript",
-    "imageSrc": "../public/assets/skills/javascript.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/javascript.png?raw=true"
   },
   {  "id":4,
     "title": "React",
-    "imageSrc": "../public/assets/skills/react.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/react.png?raw=true"
   },
   {  "id":5,
     "title": "Github",
-    "imageSrc": "../public/assets/skills/github.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/github.png?raw=true"
   },
   {  "id":6,
     "title":"Firebase",
-    "imageSrc":"../public/assets/skills/firebase.png"
+    "imageSrc":"https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/firebase.png?raw=true"
   },
   {  "id":7,
     "title": "Tailwind CSS",
-    "imageSrc": "../public/assets/skills/tailwind.jpeg"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/tailwind.jpeg?raw=true"
   },
   {  "id":8,
     "title": "Bootstraps",
-    "imageSrc": "../public/assets/skills/bootstrap.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/bootstrap.png?raw=true"
   },
   {  "id":9,
     "title": "Figma",
-    "imageSrc": "../public/assets/skills/figma.png"
+    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/figma.png?raw=true"
   }
 ]

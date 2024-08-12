@@ -9,7 +9,7 @@ function Navbar() {
         >
             <div className=''>
                 <a className="flex items-center gap-5" href="#home">
-                    <img className='w-14 h-14' src="../public/Logo.svg" alt="logo" />
+                    <img className='w-14 h-14' src="https://raw.githubusercontent.com/RDHira/My_Portfolio/dd972bf210bbde25b5b0877884e4ce2d9104b465/public/Logo.svg" alt="logo" />
                     <span className='text-2xl font-bold'>HIRA</span>
                 </a>
             </div>
