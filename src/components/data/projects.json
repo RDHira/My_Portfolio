@@ -1,6 +1,13 @@
 
   [
-    
+    {
+      "key": 1,
+      "title": "Crud Application",
+      "imageSrc": "../public/assets/projects/crud app.png",
+      "description": "This React.js CRUD application allows users to manage profiles with features for creating, reading, updating, and deleting records. It includes a form with real-time validation for user details and image upload in PNG format, and select a country from a dynamically fetched list. Profiles are displayed in a paginated table, with options to edit or delete entries. The application showcases effective state management and form handling in React.",
+      "demo": "https://crud-application-rd.netlify.app/",
+      "source": "https://github.com/RDHira/Crud-Application"
+    },
     {
       "key": 2,
       "title": "React API  Weather App",
