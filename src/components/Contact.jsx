@@ -32,7 +32,7 @@ export default function Contact() {
                 <h5 className=" mb-3 text-orange-300 text-3xl">Social Links</h5>
                 <a href="https://github.com/RDHira" className="icons block my-2 ml-16 text-xl text-slate-300" target='_blank'><FaGithub className='inner-icon'/></a>
                 <a href="https://www.linkedin.com/in/hiralal-mandal-6b07591a2/" className="icons block my-2 ml-16 text-xl text-slate-300" target='_blank'><FaLinkedin className='inner-icon'/></a>
-                <a href="https://www.facebook.com/hiralal.mandal" className="icons block my-2 ml-16 text-xl text-slate-300" target='_blank'><FaFacebook className='inner-icon'/></a>
+                <a href="https://www.facebook.com/profile.php?id=61563867200358" className="icons block my-2 ml-16 text-xl text-slate-300" target='_blank'><FaFacebook className='inner-icon'/></a>
                 
                 
             </div>
