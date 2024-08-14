@@ -21,7 +21,7 @@ function Experience(){
                     </div>
                     <div className="ex-content font-bold mr-6">
                         <h2 className='text-2xl text-center'>{data.role}</h2>
-                        <h4 className='text-xl text-center text-yellow-300'><span className='text-lime-400'>{data.startDate} {data.endDate}</span> {data.location}</h4>
+                        <h4 className='text-xl text-center text-yellow-300'><span className='text-lime-400'></span> {data.location}</h4>
                         <h5 className='text-[15px] text-center text-yellow-500'>{data.experiences[0]}</h5>
                     </div>
                     </div>
