@@ -3,8 +3,8 @@
     "id": 1,
     "role": "React Developer-Intern",
     "organisation": "Explore Soft Tech",
-    "startDate": "In 2023, ",
-    "endDate": "Present",
+    "startDate": "",
+    "endDate": "",
     "location": "Bagbazar, Kathmandu",
     "experiences": [
       "I create some dynamic user interface API's base projects in React , manage hooks, React Router for navigation I explored some libraries like Axios, APIs calls  Aos and version control with Git and collaborating with a team."
@@ -16,8 +16,8 @@
     "id": 2,
     "role": "Front-End Developer- Intern",
     "organisation": "Udey Tech",
-    "startDate": "In",
-    "endDate": "2022,",
+    "startDate": "",
+    "endDate": "",
     "location": "Janakpur, Nepal",
     "experiences": [
       
@@ -30,8 +30,8 @@
     "id": 3,
     "role": "As a Frontend Developer",
     "organisation": "Cyberpur Lokbidhi",
-    "startDate": "First 3",
-    "endDate": "months",
+    "startDate": "",
+    "endDate": "",
     "location": "Janakpur, Nepal",
     "experiences": [
       "I've worked as a frontend developer and made small projects, such as creating web pages component of websites, using HTML, CSS, Bootstrap, and JavaScript and Design and implement different business logic workshop"
