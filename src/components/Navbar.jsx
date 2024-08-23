@@ -13,7 +13,7 @@ function Navbar() {
                     <span className='text-2xl font-bold'>HIRA</span>
                 </a>
             </div>
-            <div className="nav-list space-x-12">
+            <div className=" nav-list space-x-12">
                 <a className='items' href="#home">About Me</a>
                 <a className='items' href="#experience">Experience</a>
                 <a className='items' href="#skills">Skills</a>

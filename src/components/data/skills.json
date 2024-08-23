@@ -19,10 +19,6 @@
     "title": "Github",
     "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/github.png?raw=true"
   },
-  {  "id":6,
-    "title":"Firebase",
-    "imageSrc":"https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/firebase.png?raw=true"
-  },
   {  "id":7,
     "title": "Tailwind CSS",
     "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/tailwind.jpeg?raw=true"
@@ -30,9 +26,9 @@
   {  "id":8,
     "title": "Bootstraps",
     "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/bootstrap.png?raw=true"
-  },
-  {  "id":9,
-    "title": "Figma",
-    "imageSrc": "https://github.com/RDHira/My_Portfolio/blob/main/public/assets/skills/figma.png?raw=true"
   }
+  
 ]
+
+
+
